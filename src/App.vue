@@ -1,5 +1,5 @@
 <template>
-  <!--
+  
   <BlogPost 
     id="1" 
     blogPostTitle="What is a muggle" 
@@ -26,7 +26,7 @@
     :id="post.id"
     :blog-post-title="post.blogPostTitle"
     :blog-post-content="post.blogPostContent"
-  ></BlogPost> -->
+  ></BlogPost>
 
   <hr />
 
